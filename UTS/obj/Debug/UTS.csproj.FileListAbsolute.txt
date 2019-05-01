@@ -1,0 +1,7 @@
+E:\c#\UTS\UTS\bin\Debug\UTS.exe.config
+E:\c#\UTS\UTS\bin\Debug\UTS.exe
+E:\c#\UTS\UTS\bin\Debug\UTS.pdb
+E:\c#\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+E:\c#\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+E:\c#\UTS\UTS\obj\Debug\UTS.exe
+E:\c#\UTS\UTS\obj\Debug\UTS.pdb
